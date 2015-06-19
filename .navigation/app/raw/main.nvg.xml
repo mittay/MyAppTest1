@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "ua.in.dima.myapptest1.MainActivity"/>
+      <point      
+        x = "24"      
+        y = "324"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "ua.in.dima.myapptest1.MainActivity"/>
+      <point      
+        x = "1256"      
+        y = "300"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "ua.in.dima.myapptest1.MainActivity2Activity"/>
+      <point      
+        x = "1132"      
+        y = "384"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "ua.in.dima.myapptest1.MainActivity2Activity"/>
+      <point      
+        x = "2400"      
+        y = "384"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "ua.in.dima.myapptest1.MainActivity23Activity"/>
+      <point      
+        x = "500"      
+        y = "2860"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "ua.in.dima.myapptest1.MainActivity23Activity"/>
+      <point      
+        x = "1768"      
+        y = "2860"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "ua.in.dima.myapptest1.MainActivity22Activity"/>
+      <point      
+        x = "500"      
+        y = "2860"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "ua.in.dima.myapptest1.MainActivity22Activity"/>
+      <point      
+        x = "1768"      
+        y = "2860"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>
